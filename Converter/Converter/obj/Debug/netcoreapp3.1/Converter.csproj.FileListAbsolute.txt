@@ -1,0 +1,13 @@
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
