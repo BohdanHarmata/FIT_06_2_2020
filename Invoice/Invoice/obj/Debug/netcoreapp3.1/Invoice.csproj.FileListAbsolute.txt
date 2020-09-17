@@ -1,0 +1,13 @@
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
