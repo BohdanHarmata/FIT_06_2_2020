@@ -1,0 +1,13 @@
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.exe
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.deps.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.runtimeconfig.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.runtimeconfig.dev.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\bin\Debug\netcoreapp3.1\PointAndFigure.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.AssemblyInfoInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.AssemblyInfo.cs
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\PointAndFigure\PointAndFigure\obj\Debug\netcoreapp3.1\PointAndFigure.genruntimeconfig.cache
