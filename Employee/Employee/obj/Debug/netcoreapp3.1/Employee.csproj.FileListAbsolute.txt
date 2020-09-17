@@ -1,0 +1,13 @@
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\Роман Коновал\Desktop\FOAIS_2_6_20-master\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
